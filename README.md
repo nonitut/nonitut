@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @nonitut / ig: @tutnoni / tg: @incognitolol / Nona Arakelian / Нона Аракелян
-- 👀 I’m Professor at the HSE Design School, specializing in digital products. Teaching web design, programming, and the development and promotion of digital solutions.
-- 📫 How to reach me :  nona.blogg@gmail.com
+# 👀 I’m Professor at the HSE Design School, specializing in digital products. Teaching web design, programming, and the development and promotion of digital solutions.
+# 📫 How to reach me : nona.blogg@gmail.com /  @nonitut / tg: @incognitolol / Nona Arakelian / Нона Аракелян
