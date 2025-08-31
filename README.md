@@ -1,5 +1,4 @@
-📫 How to reach me : nona.blogg@gmail.com /  @nonitut / tg: @incognitolol / Nona Arakelian /
-<a href="https://www.youtube.com/watch?v=zk0Xuez3gMw" target="_blank" rel="noopener noreferrer">Нона Аракелян ➝</a>
+📫 How to reach me : nona.blogg@gmail.com /  @nonitut / tg: @incognitolol / Nona Arakelian 
 
 
 
