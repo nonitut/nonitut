@@ -10,7 +10,7 @@
 
 ## Recent projects:
 🔹 [A/B Test Analysis](https://github.com/nonitut/Python_case_a_b_tests_conversion_analysis) — Analyzed conversion  
-🔹 [Retail Analytics](https://github.com/nonitut/Python_case_gloria_geans) — Customer behavior analysis
+🔹 [Retail Analytics](https://github.com/nonitut/Python_case_gloria_geans) — Customer behavior analysis <br>
 🔹 [Social Media Analytics](https://github.com/nonitut/Python_case_analysis_social_media) — User engagement and content performance metrics
 
 💼 **Open to Product Analytics roles in US/EU companies (remote)**
